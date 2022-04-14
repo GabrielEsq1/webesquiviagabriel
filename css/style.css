@@ -25,6 +25,8 @@ h1, h2, h3, h4, h5 {
   -webkit-box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1); }
 
+ 
+
 header {
   position: relative;
   top: 0;
@@ -1386,4 +1388,10 @@ blockquote {
 }
 div {
     display: block;
-}}
+}
+
+#bookfree {
+display: block;
+  max-height: 2px;
+  max-width: 2px;
+}
